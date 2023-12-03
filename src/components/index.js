@@ -1,1 +1,5 @@
 export {default as App} from "./app/App.jsx"
+export {default as Main} from "./main/Main.jsx"
+export {default as Channel} from "./channel/Channel.jsx"
+export {default as VideoDetail} from "./videp-detail/VideoDetail.jsx"
+export {default as Search} from "./search/Search.jsx"
