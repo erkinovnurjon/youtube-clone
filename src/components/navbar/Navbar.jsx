@@ -9,8 +9,8 @@ const Navbar = () => {
   return (
     
 
-      <Stack direction={"row"} alignItems={"center"} justifyContent={"space-between"} p={'3'}
-      sx={{position : 'sticky' , height:'10vh' , top : 0 , zIndex : 999 , background : colors.primary}}>
+      <Stack direction={"row"} alignItems={"center"} justifyContent={"space-between"} 
+      sx={{position : 'sticky' , height:'10vh' , top : 0 , paddingX:'25px' , zIndex : 999 , background : colors.primary}}>
       <Link to={'/'} >
       <img src={logo} alt="logo" height={60}  />
       </Link>
