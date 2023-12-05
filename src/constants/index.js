@@ -6,11 +6,11 @@ export const category = [
             icon :<Home />
       },
       {
-            name : "movie",
+            name : "Movie",
             icon:<OndemandVideo />
       },
       {
-            name: "live",
+            name: "Live",
             icon : <LiveTv />
       },
       {
@@ -26,7 +26,7 @@ export const category = [
             icon : <FitnessCenter />
       },
       {
-            name: "comedy",
+            name: "Comedy",
             icon: <TheaterComedy />
       },
       {
@@ -38,7 +38,7 @@ export const category = [
             icon : <Checkroom />
       },
       {
-            name: "crypto",
+            name: "Crypto",
             icon : <DeveloperMode />
       },
       {
