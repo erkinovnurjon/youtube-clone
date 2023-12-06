@@ -43,3 +43,10 @@
       color: white !important;
       
 }
+@media screen and (max-width:600px) {
+      .search-bar{
+            width: 200px;
+             padding: 1px;
+            margin: 2;
+      }
+}
