@@ -54,6 +54,9 @@
             height: 30px;
              padding: 1px;
             margin: 2;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
       }
       .react-player{
             height: 45vh !important;
