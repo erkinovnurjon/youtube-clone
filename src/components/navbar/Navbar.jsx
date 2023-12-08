@@ -1,5 +1,5 @@
 import {  Stack,  } from "@mui/material"
-import logo from "../../assets/images/youtube logo.jpg"
+import logo from "../../assets/images/logo-you.jpg"
 import { Link } from "react-router-dom"
 import {colors} from "../../constants/colors"
 import { SearchBar } from "../"
